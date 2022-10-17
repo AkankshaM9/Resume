@@ -1,9 +1,10 @@
-# Resume
-Akanksha Mahapatra<br>
-Ph.No: 8847706997<br>
-Email: akanksha9.m@gmail.com 
----
----
+<center>
+    <h1> Resume </h1>
+    Akanksha Mahapatra<br>
+    Ph.No: 8847706997<br>
+    Email: akanksha9.m@gmail.com
+</center> 
+
 
 <br>
 
