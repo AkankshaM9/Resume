@@ -13,18 +13,18 @@
 
 These are the words of Johann Wolfgang von Goethe an acclaimed German poet, novelist, scientist and playwright, something that resonates deeply with me.
 <br><br>
-Throughout my childhood, I have learned STEM (Science, Technology, Engineering and Math) concepts through exploration, research and innovation. I began with Robotics fundamentals while still in elementary, and progressed to programming fundamentals as High School commenced.
+Throughout my childhood, I have learned STEM (Science, Technology, Engineering and Math) concepts through exploration, research and innovation. I have always loved programming.
 
 At present, I am proficient in :
 -
 - JAVA<BR>
 - Python<br>
-- HTML
+- HTML+CSS+JS
 <br><br>
 I am also learning C++ as part of my higher studies to write highly performant and memory efficient code.
 
-Aside from my passion for coding, I also love music, football, basketball, badminton, swimming, debate, public speaking and running. I am also very fond of animals and am part of the T.E.D Volunteer group of Hadapsar. I also regularly volunteer at local animal welfare NGOs, at adoption camps and sterilizatin drives.<br>
-I have given 6 Trinity College of London Piano Exams, 1 Western Rock and Pop Vocal Exam, and I enjoy playing Basketball on a daily basis, along with taking long walks for leisure.
+Aside from my passion for coding, I also love music, football, basketball, badminton, swimming, debate, public speaking and running. I am also very fond of animals and am part of the T.E.D Volunteer group of Hadapsar. I also regularly volunteer at local animal welfare NGOs, at adoption camps and sterilization drives.<br>
+I have given 7 Trinity College of London Piano Exams, 1 Western Rock and Pop Vocal Exam, and I enjoy playing Basketball on a daily basis, along with taking long walks for leisure.
 <br>
 
 ---
@@ -39,6 +39,8 @@ Achievements
 - Elected Head Girl in grades 9 till 10, and Elected Sport Captain in grades 11 til 12
 - Won Best All Rounder Traphy (2015)
 - Awarded Honorary Mention at MusiQuest; An all india Music platform to showcase talents
+- Done up till grade 7 piano certification
+
 
 <br>
 
